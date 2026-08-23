@@ -68,3 +68,13 @@ PATRICIO Pereyra Damian - 935586
 SUAREZ Juan Valentin - 36613 - JuanvaSS
 
 ---
+
+### TUP13 - Grupo 2
+
+Integrantes:
+CASTRO Sanchez Liliana - 37099 - sanchezlylyana
+GRONDA Anabella  - 36718 - AnaGronda
+MONLEZUN Neilen  - 36734 - NeilenC
+ZOPPOLI Luciano  - 37105 - luchozoppo
+
+---
